@@ -196,6 +196,3 @@ ggplot(cases_by_continent, aes(x = continent, y = total_cases, fill = continent)
   geom_bar(stat = 'identity') +
   labs(x = "Continent", y = "Total Cases") +
   theme_minimal()
-
-?ggplot
-
