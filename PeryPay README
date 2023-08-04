@@ -1,0 +1,23 @@
+# Strategic Analytics Candidate Challenge
+
+## Overview
+
+Welcome to the Strategic Analytics Candidate Challenge for Perpay! This challenge involves analyzing the user and loan datasets provided to gain insights into the loan application funnel and propose actionable improvements. Perpay operates an ecommerce Marketplace where users can purchase items and pay for them over time through an installment loan. Users progress through the following steps in the loan application process:
+
+1. Start a loan application by checking out an item(s).
+2. Complete the application by providing identifying information.
+3. Receive approval/denial of the loan application.
+4. Set up a payroll direct deposit based on the approved loan terms.
+5. Loan enters repayment after the first direct deposit payment, and the item(s) are shipped.
+
+## Challenge Description
+
+Your task is to address the following points using the provided loan and user datasets:
+
+- Profile the user and loan data included in the datasets.
+- Propose a set of metrics to monitor and improve the loan application funnel.
+  - Provide insights from these metrics about the funnel.
+  - Suggest potential actions or further research based on the data.
+- Assess the agreement and quality of the datasets.
+- Determine the number of loans entering repayment within 15 days of approval.
+- Share any other interesting findings you discovered.
